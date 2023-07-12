@@ -1,0 +1,18 @@
+.row-1 {
+    padding: 0px 20px;
+}
+
+.introImg {
+    width: 100%;
+    height: 100%;
+}
+
+.myBtn {
+    padding: 15px 20px;
+    border: 5px solid #4F596E;
+}
+.myBtn:hover, .myBtn:focus {
+    background-color: #14213D;
+    border: 5px solid #14213D;
+    color: white;
+}
