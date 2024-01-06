@@ -1,7 +1,7 @@
 [
     {
         "name": "Shopify",
-        "link": "https://shopifyweb-secondary.z30.web.core.windows.net/",
+        "link": "https://nikhilsingaraju.github.io/Shopify/",
         "tags": "HTML | CSS | JS | Bootstrap | Azure Static Web App | Azure Storage Accounts",
         "description": "The project's core idea is to build a sample prototype Shopify Website for a business company with the help of HTML, CSS, JAVASCRIPT, and BOOTSTRAP. The business-to-consumer aspect of product commerce (e-commerce) is the most visible business use of the World Wide Web. The primary goal of the sample prototype an e-commerce site is to sell goods online. This project deals with developing an e-commerce website for Online Product Sales. It provides the user with a catalog of products available in the store. To facilitate online purchases, a shopping cart is provided to the user. I am using Azure Technologies with GitHub to complete this project.",
         "github": "https://github.com/nikhilsingaraju/Shopify"
